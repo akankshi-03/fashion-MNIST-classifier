@@ -80,7 +80,7 @@ The project demonstrates key deep learning concepts such as *overfitting, regula
 ---
 
 ## 👩‍💻 Author
-a
+
 Akankshi dubey
 
 ---
